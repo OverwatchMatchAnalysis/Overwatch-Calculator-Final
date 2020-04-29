@@ -17,6 +17,7 @@
 1. If the path is valid click “Ok”
 1. Follow the User Instructions for using the application
 
-Our github for the final build of the project is located at https://github.com/OverwatchMatchAnalysis/Overwatch-Calculator-Final
-The backend development github repo is located at https://github.com/OverwatchMatchAnalysis/Backend
-The frontend development github repo is located at https://github.com/OverwatchMatchAnalysis/FrontEnd
+## Project Repositories
+* Our Github repository for the final build of the project is located at https://github.com/OverwatchMatchAnalysis/Overwatch-Calculator-Final
+* The backend development Github repository is located at https://github.com/OverwatchMatchAnalysis/Backend
+* The frontend development Github repository is located at https://github.com/OverwatchMatchAnalysis/FrontEnd

@@ -1,3 +1,4 @@
+A styled version of the readme is available on the github page of the final build
 Our github for the final build of the project is located at https://github.com/OverwatchMatchAnalysis/Overwatch-Calculator-Final
 The backend development github repo is located at https://github.com/OverwatchMatchAnalysis/Backend
 The frontend development github repo is located at https://github.com/OverwatchMatchAnalysis/FrontEnd
@@ -12,6 +13,7 @@ User instructions
 	a. The system will validate the teams and make sure one spot is left for your role on the friendly team
 4. If the team is valid, no popup window will be shown and the user can press the “confirm” button for the system display the recommended picks
 5. Close the window to quit and click “End” 
+
 Administrator instructions
 1. Open the file
 2. Click “Setting”
