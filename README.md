@@ -1,6 +1,6 @@
 # Overwatch Calculator
 
-##User instructions
+## User instructions
 1. Open the file called "Overwatch Calculator" and click start
 1. In the new window fill out the heroes for the opponent and friendly team
 	1. There are two drop down menus for each role on both teams
@@ -10,7 +10,7 @@
 	1. The system will validate the teams and make sure one spot is left for your role on the friendly team
 1. If the team is valid, no popup window will be shown and the user can press the “confirm” button for the system display the recommended picks
 1. Close the window to quit and click “End”
-##Administrator instructions
+## Administrator instructions
 1. Open the file
 1. Click “Setting”
 1. Input the new data path and click “Check Path”
